@@ -1,3 +1,23 @@
+# 25-Jan-2024
+- Fixed an issue where toggling airplane mode crashes SystemUI.
+- Fixed an issue where installing certain APKs crashes PackageInstaller.
+- Implemented Show Ambient for Lift to Wake and Tap to Wake.
+
+# 17-Jan-2024
+- Bring back QDCM display configs. (reasoning mentioned in DT commit)
+
+# 22-Dec-2023
+- Move overlays to product.
+- Migrate and ship custom task_profiles.
+- Update blobs from MIUI V14.0.8.0.SKGMIXM.
+- Set debug.sf.auto_latch_unsignaled to 0 to match QCOM.
+- Lower background apps to 38.
+- Spoof props to /product aswell to match stock behavior.
+- Disable display refresh rate override to fix lags during video playback.
+- Bring back megvii blobs for face unlock.
+- Drop QDCM display configs to fix 'apply wallpaper' button visibility in ThemePicker.
+- Kernel state at r17a10.
+
 # 19-Nov-2023
 - Show 4G Icon for all carriers.
 - Enable LTE+ icon aswell.

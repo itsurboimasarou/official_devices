@@ -1,3 +1,19 @@
+# 18-Jan-2024
+- Source upstream 
+- Kernel upstream
+- Updated power profile from stock
+- Adjusted statur bar padding
+- Switched to vendor-defined color modes
+- Added back 32 bit app support
+- Fixed AOD black screens
+- Disabled display refresh rate override
+- Disabled a lot of debug configs on kernel side
+
+# 22-Dec-2023
+- Updated refresh rate timings from op9 PA
+- Improved kernel scheduler
+- Nuked teo cpu idle governor on kernel side (seems like it was draining a bit more)
+
 # 28-Nov-2023
 - Source Upstream
 - Added charging control

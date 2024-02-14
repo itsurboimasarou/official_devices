@@ -52,7 +52,7 @@
             "model": "Micromax IN Note 1 / IN1",
             "maintainer_name": "SakthivelNadar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "tundra",
@@ -70,7 +70,7 @@
             "model": "Motorola Edge 30",
             "maintainer_name": "Vantom",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "hotdog",
@@ -169,7 +169,7 @@
             "model": "Realme 5 Series",
             "maintainer_name": "Sugakesshaa",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "salaa",
@@ -194,7 +194,7 @@
             "codename_alt": "porsche",
             "vendor": "Realme",
             "model": "Realme GT 2",
-            "maintainer_name": "Kunmun",
+            "maintainer_name": "Karan and Sourav",
             "frame": null,
             "active": true
         },
@@ -203,9 +203,9 @@
             "codename_alt": "bitra",
             "vendor": "Realme",
             "model": "Realme GT Neo 2",
-            "maintainer_name": "cristian",
+            "maintainer_name": "Aditya",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "RMX2020",
@@ -230,7 +230,7 @@
             "codename_alt": "sky/skyin",
             "vendor": "Xiaomi",
             "model": "Redmi 12 5G / Poco M6 Pro",
-            "maintainer_name": "Sushmit",
+            "maintainer_name": "Sushmit and jendermine",
             "frame": null,
             "active": true
         },
@@ -304,7 +304,7 @@
             "model": "Redmi Note 4",
             "maintainer_name": "Silent Killer",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "whyred",
@@ -464,7 +464,7 @@
             "codename_alt": "courbet/courbetin",
             "vendor": "Xiaomi",
             "model": "Xiaomi 11 Lite 4G",
-            "maintainer_name": "Yusuf",
+            "maintainer_name": "Vantom and Aryan",
             "frame": null,
             "active": true
         },
@@ -492,6 +492,15 @@
             "vendor": "Xiaomi",
             "model": "Xiaomi Mi Note 10 Lite",
             "maintainer_name": "Dennis Murimi",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "nabu",
+            "codename_alt": "nabu/nabuin",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Pad 5",
+            "maintainer_name": "Saikiran",
             "frame": null,
             "active": true
         },

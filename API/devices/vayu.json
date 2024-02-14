@@ -2,12 +2,12 @@
     "maintainer": [
         {
             "display_name": "clhex",
-            "telegram": "https://t.me/hexcl",
+            "telegram": "https://t.me/itsclhex",
             "github": "https://github.com/clhexftw/"
         }
     ],
     "updater": true,
-    "beta": true,
+    "beta": false,
     "version": "fourteen",
     "available_versions": [
         "twelve",
@@ -18,9 +18,9 @@
     "device_display_name": "POCO X3 Pro",
     "device_display_codename": "vayu/bhima",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/",
-    "last_updated": "18 November 2023",
-    "private_download_tag": "vayu_202311181352",
+    "last_updated": "20 January 2024",
+    "private_download_tag": "vayu_202401191931",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-19-04-2022.4467493/"
+    "xda": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4467493/"
 }

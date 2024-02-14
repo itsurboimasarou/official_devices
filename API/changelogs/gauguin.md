@@ -1,3 +1,19 @@
+# 26-Jan-2024
+- Revert brightness overlay changes.
+
+# 25-Jan-2024
+- Screen recorder bug fixes.
+
+# 02-Jan-2024
+- Fix high memory usage issue
+
+# 31-Dec-2023
+- Drop unrequired NT36672C MP firmwares
+- Drop unused QCOM soundfx libraries
+
+# 23-Dec-2023
+- Decrease NFC debug level.
+
 # 07-Dec-2023
 - Enable IMS VT
 - Drop unused audio configurations
